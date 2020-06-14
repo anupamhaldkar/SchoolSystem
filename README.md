@@ -26,7 +26,7 @@
 ##### 8. Moreover, using Pandas library in python, I am storing all the necessary data like student details, student attendance, student marks which in Excel Sheets which are present in the same folder of the project.
 
 
-##### 9. Requirements:
+##### 9. Application/package Requirements:
 Python 3.8 or new, Pandas Package,xlsxwriter package.
 
 -> Open main.py
